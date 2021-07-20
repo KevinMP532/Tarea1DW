@@ -1,0 +1,16 @@
+.content{
+    background-color: red;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.content div{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content div select{
+    width: 98%;
+    height: 98%;
+}
